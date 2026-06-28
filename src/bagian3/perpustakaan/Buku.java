@@ -10,7 +10,8 @@ package bagian3.perpustakaan;
  * @author haha hihii darrr
  */
 public class Buku {
-   // Atribut
+  
+    // Atribut
     private String judul;
     private String penulis;
     private int tahunTerbit;
